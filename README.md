@@ -2,8 +2,9 @@
 <div align='center'>
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Phuong%20Duong-blue?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/phuong-duong-018b4834b/)
-  [![Mail](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dqphuong.2k2)
   [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dqphuong2k2@gmail.com)
+  [![Mail](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dqphuong.2k2)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_dqphuong2k2_)
   
 </div>
 A React Native Developer with 2 years of experience, specializing in building high-quality, cross-platform mobile applications for both iOS and Android. 
