@@ -38,6 +38,11 @@ Be better...!
 <!--
 **phuongduong2k2/phuongduong2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/dqphuong.2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dqphuong.2k2" height="30" width="40" /></a>
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
