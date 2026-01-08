@@ -30,8 +30,8 @@ Be better...!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!-- Javascript -->
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> <!-- Redux -->
   <img src="https://www.svgrepo.com/show/374112/swift.svg" alt="swift" width="40" height="40"/> <!-- Swift -->
- <img src="https://img.icons8.com/fluent/512/swiftui.png" alt="swift UI" width="40" height="40"/> <!-- Swift UI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="kotlin" width="40" height="40"/> 
+  <img src="https://img.icons8.com/fluent/512/swiftui.png" alt="swift UI" width="40" height="40"/> <!-- Swift UI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/1200px-Kotlin_icon_%282016-2021%29.svg.png" alt="kotlin" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjABweqT7gL00cuGom4aYvIzD9KINiaj-iA&s" alt="mongodb" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </p>
