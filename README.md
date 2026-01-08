@@ -25,7 +25,7 @@ Be better...!
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react native" width="40" height="40"/> <!-- React Native -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react native" width="40" height="40"/> <!-- React Native -->
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/> <!-- Typescript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!-- Javascript -->
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> <!-- Redux -->
