@@ -13,7 +13,7 @@ Proficient in developing responsive and user-friendly apps, leveraging the power
 
 ## Hi there 👋 Welcome to my Github!
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlnZHdqbGQzZTlwZno3M2ExaTRjZ2puMnBwcXBlaHhiZXF0MTFuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="200" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVkNXE1N3ptc3A5cXJybnZhbGt0aGl5cGo3OGc5aHhrdjdqZmhkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" height="200" />
 
 - 👨🏻‍🎓 I graduated from PTIT.
 
