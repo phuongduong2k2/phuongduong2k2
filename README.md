@@ -7,9 +7,9 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_dqphuong2k2_)
   
 </div>
-A React Native Developer with 3 years of experience, specializing in building high-quality, cross-platform mobile applications for both iOS and Android. 
+A Mobile Developer with 3 years of experience, specializing in building high-quality, cross-platform mobile applications for both iOS and Android. 
 
-Proficient in developing responsive and user-friendly apps, leveraging the power of React Native to deliver seamless performance across different platforms. Strong problem-solving and troubleshooting skills enable me to efficiently address any issues that may arise, ensuring optimal app functionality and performance.
+Proficient in developing responsive and user-friendly apps, leveraging the power of React Native/Flutter to deliver seamless performance across different platforms. Strong problem-solving and troubleshooting skills enable me to efficiently address any issues that may arise, ensuring optimal app functionality and performance.
 
 ## Hi there 👋 Welcome to my Github!
 
