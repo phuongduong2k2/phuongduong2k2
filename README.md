@@ -26,6 +26,7 @@ Be better...!
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/> <!-- React Native -->
+  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2389%2FPNG%2F512%2Fexpo_logo_icon_145293.png&id=145293&pack_or_individual=pack" alt="expo" width="40" height="40"/> <!-- Expo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/960px-Flutter_logo.svg.png" alt="react native" width="40" height="40"/> <!-- Flutter -->
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/> <!-- Typescript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!-- Javascript -->
