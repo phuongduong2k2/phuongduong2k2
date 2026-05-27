@@ -25,16 +25,16 @@ Be better...!
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react native" width="40" height="40"/> <!-- React Native -->
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/> <!-- React Native -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/960px-Flutter_logo.svg.png" alt="react native" width="40" height="40"/> <!-- Flutter -->
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/> <!-- Typescript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!-- Javascript -->
-  <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> <!-- Redux -->
-  <img src="https://www.svgrepo.com/show/374112/swift.svg" alt="swift" width="40" height="40"/> <!-- Swift -->
-  <img src="https://img.icons8.com/fluent/512/swiftui.png" alt="swift UI" width="40" height="40"/> <!-- Swift UI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/1200px-Kotlin_icon_%282016-2021%29.svg.png" alt="kotlin" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjABweqT7gL00cuGom4aYvIzD9KINiaj-iA&s" alt="mongodb" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </p>
+  <img src="https://www.svgrepo.com/show/374112/swift.svg" alt="swift" width="40" height="40"/> <!-- Swift --> 
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> <!-- MySQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> <!-- PostgreSQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/vi/thumb/3/30/Java_programming_language_logo.svg/1280px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> <!-- Java -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" alt="spring-boot" width="40" height="40"/> <!-- Spring Boot -->
+</p>
 <!--
 **phuongduong2k2/phuongduong2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
